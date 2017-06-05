@@ -1,0 +1,13 @@
+Familiarized some linux commands like sed, sort, head, ps,ln, xargs, dd, find mount, tar, gzip, etc.
+
+Downloaded and untared the git.tgz file.
+
+Done a simple python program for printing 'hello world!'.
+ 
+deepu@deepu-Lenovo-G500:~/INTERN/python-prgms$ cat helloworld.py
+hi = 'hello world!'
+print (hi)
+deepu@deepu-Lenovo-G500:~/INTERN/python-prgms$ python helloworld.py
+hello world!
+deepu@deepu-Lenovo-G500:~/INTERN/python-prgms$ 
+

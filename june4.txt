@@ -1,0 +1,15 @@
+Refered the git tutorials.
+
+Created a local git repo using
+git init 
+git add <file name>
+git commit -m <msg>
+
+Performed branching and merging by running commands
+git checkout -b <branch name>
+git merge <branch name>
+git branch -d <branch name>
+
+Generated ssh key and copied to github.
+
+Pushed a loacal git repo to a remote repo.

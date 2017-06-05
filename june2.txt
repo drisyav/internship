@@ -1,0 +1,3 @@
+Created a branch for the master in the hello-world repository. Made changes in the new branch and commit the changes. Opened a pull request and merged the new branch with master.
+
+Familiarized the linux commands grep, wc, etc. 

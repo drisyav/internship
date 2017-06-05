@@ -1,0 +1,7 @@
+Familiarized basic linux commands (pwd, cd, cat, ls, mkdir, rmdir, pushd, popd, etc.).
+
+Accessed the files inside the .iso file by doing a "loopback mount" on Linux.
+
+Familiarized vim editor.
+
+Created hello-world repository in git hub.
