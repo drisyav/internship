@@ -1,0 +1,11 @@
+started the Week0 commandline exercise
+
+logged into the remote system using ssh
+
+made a directory 'drisyav'
+
+found qns.txt using 'find' 
+
+started answering with the help of Google 
+
+

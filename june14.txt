@@ -1,0 +1,4 @@
+completed the commandline exercise
+
+tried to copy Python 2.7.13 from it's source code 
+but failed due to some errors

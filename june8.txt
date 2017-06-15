@@ -1,0 +1,7 @@
+learned to push a local git repo without username and password using ssh url 
+
+$ git remote set-url origin git@github.com:drisyav/test.git
+$ git remote add origin git@github.com:drisyav/test.git
+$ git push -u origin master
+
+continuing with think-python
